@@ -26,8 +26,6 @@ If you are coming from console, you probably know what your trying to achieve wi
 - Given product-led company focus, a safe assumption is that you have an engineer ready to complete the above.
 - Backup as always, send us a request if not the case.
 
-
-
 ## Notes
 - Once template is setup, you can customize as you please.
 - and for any new releases we offer to the template, notifications will be sent out.
