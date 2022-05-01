@@ -1,8 +1,10 @@
 [<img src="https://learnir.co/logo.svg" width="50"/>](https://learnir.co/logo.svg)
 
 # Hey, welcome!
-Learnir currently works great for product-led organizations.
+A note - Learnir currently works great for product-led organizations.
 
+## Templates
+- Product Training - [Repo](https://github.com/Learnir/portal-simple) & [Preview](https://academy.learnir.co)
 
 ## Lets deploy!
 If you are coming from console, you probably know what your trying to achieve with this portal.
@@ -24,9 +26,6 @@ If you are coming from console, you probably know what your trying to achieve wi
 - Given product-led company focus, a safe assumption is that you have an engineer ready to complete the above.
 - Backup as always, send us a request if not the case.
 
-
-## Templates
-- Product Training - [Repo](https://github.com/Learnir/portal-simple) & [Preview](https://academy.learnir.co)
 
 
 ## Notes
